@@ -117,13 +117,6 @@ Students will explore design principles, prototyping, and implementation across 
   - Compare your changes against the main repository.
   - Add a clear title and description (e.g., "Final project submission by Deniz DAHMANS").
 
-## ✅ Requirements
-  - Functional React frontend.
-  - Functional backend API (FastAPI or Django).
-  - Integration between frontend and backend.
-  - Documentation () with setup instructions.
-  - Clean and organized codebase.
-
 ## 📅 Deadlines
   - All submissions must be completed by [the date published in the LMS].
   - Late submissions may not be accepted unless approved.
