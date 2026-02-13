@@ -116,6 +116,7 @@ Students will explore design principles, prototyping, and implementation across 
   - Click New Pull Request.
   - Compare your changes against the main repository.
   - Add a clear title and description (e.g., "Final project submission by Deniz DAHMANS").
+  - Once you have your project Live on your GitHub Repo, copy the link and send it by email to me
 
 ## 📅 Deadlines
   - All submissions must be completed by [the date published in the LMS].
