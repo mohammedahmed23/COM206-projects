@@ -68,18 +68,6 @@ Students will explore design principles, prototyping, and implementation across 
 3. **Implement Across Platforms** → Mobile (Flutter), Desktop (PyQt), Web (HTML/CSS/JS).  
 4. **Final Integration Project** → Reinforce design-to-code pipeline.
 
----
-
-## 📅 Final Project Submission
-
-- Students will submit their final project in the `submissions/` folder of this repository.  
-- Each student must create a folder named after themselves (e.g., `submissions/deniz_dahmans/`).  
-- Include a `README.md` inside your folder with:
-  - Project title  
-  - Short description  
-  - Instructions to run your project  
-- Provide any required dependencies (`requirements.txt` or equivalent).
-- Check the Submission Workflow for further details
 
 ---
 
