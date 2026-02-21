@@ -85,38 +85,22 @@ Students will explore design principles, prototyping, and implementation across 
 
 ## 📂 Submission Workflow
 
-1. **Fork this repository**  
-   - Click the **Fork** button to create your own copy.
-
-2. **Clone your fork**  
+1. **Please create a project structure with files organized to match the example provided in /submissions/deniz-dahman. In my example, I used the uv tool, but feel free to choose tools that best fit the nature of your project**
    ```bash
-   git clone https://github.com/<your-username>/SEN204-final-project.git
-
-
-## 📂 Create your folder
-   Inside the ('submission/') directory, create a folder named after you. Example:
-   ```bash
-   submissions/deniz_dahmans/
-   ```
-
-## Add your project files
-- Place all your project files inside your folder.
-- Include a README.md with instructions to run your project.
-- Provide requirements.txt or equivalent for dependencies.
-
-## Commit and push your changes
+   uv init deniz-dahman
+2. **Within the project structure you’ve just created, please add all of your project files according to your planned design**
+3. **Include a README.md with instructions to run your project**
+4. **Provide requirements.txt or equivalent for dependencies**
+5. **include inside the Dockerfile the autmation to run the container**
+6. **Commit and push your changes to your GitHub Repo**
 ```bash
     git add .
     git commit -m "Final project submission by <Your Name>"
     git push origin main
 ```
+7. **Add a clear title and description (e.g., "Final project submission by -your name-").**
+8. **Once you have your project Live on your GitHub Repo, copy the link and send it by email to me**
 
-## Open a Pull Request (PR)
-  - Go to your fork on GitHub.
-  - Click New Pull Request.
-  - Compare your changes against the main repository.
-  - Add a clear title and description (e.g., "Final project submission by Deniz DAHMANS").
-  - Once you have your project Live on your GitHub Repo, copy the link and send it by email to me
 
 ## 📅 Deadlines
   - All submissions must be completed by [the date published in the LMS].
