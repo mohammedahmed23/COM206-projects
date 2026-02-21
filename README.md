@@ -73,7 +73,7 @@ Students will explore design principles, prototyping, and implementation across 
 
 ## 📂 Submission Workflow
 
-1. **Please create a project structure with files organized to match the example provided in /submissions/deniz-dahman. In my example, I used the uv tool, but feel free to choose tools that best fit the nature of your project**
+1. **Please create a project structure with files organized to match the example provided in `/submissions/deniz-dahman`. In my example, I used the uv tool, but feel free to choose tools that best fit the nature of your project**
    ```bash
    uv init deniz-dahman
 2. **Within the project structure you’ve just created, please add all of your project files according to your planned design**
